@@ -1,6 +1,6 @@
 {
   "name": "fiziico-test",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Fiziico unit testing package",
   "main": "index.js",
   "dependencies": {
